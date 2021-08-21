@@ -28,7 +28,7 @@ const dental = [
     {HORA: '14:00', ESPECIALISTA: 'RAQUEL VILLASECA', PACIENTE: 'ANA SEPULVEDA', RUT: '14441281-0', PREVISION: 'ISAPRE'}
 ];
 
-document.write("<h1><b>estadisticas centro medico nuñoa</b></h1><br><br>");
+document.write("<h1><b>Estadisticas CentroMedico Ñuñoa</b></h1><br><br>");
 
 
 //radiologia
